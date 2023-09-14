@@ -4,7 +4,7 @@ const NavBar = () => {
     return(
         <header className="container">
             <Link to="/" > 
-             <h1>WorkOut Buddy </h1>
+             <h1>WorkOut Application </h1>
             </Link>
         </header>
     )
